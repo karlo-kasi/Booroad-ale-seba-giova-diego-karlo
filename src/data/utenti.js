@@ -160,6 +160,69 @@ const utenti = [
         numeroTelefono: "9012345678",
         codiceFiscale: "ZNTFRC95D42A123Y",
         viaggi_id: 6
-    }
+    },
+    {
+        id: 19,
+        nome: "Federico",
+        cognome: "Lucia",
+        email: "Federico.lucia@example.com",
+        numeroTelefono: "6789012345",
+        codiceFiscale: "FRCLUCC92M01H501D",
+        viaggi_id: 1
+    },
+    {
+        id: 20,
+        nome: "Luca",
+        cognome: "Marchi",
+        email: "luca.marchi@example.com",
+        numeroTelefono: "6789012345",
+        codiceFiscale: "LUMDSC92M01H501D",
+        viaggi_id: 1
+    },
+    {
+        id: 21,
+        nome: "Gianluca",
+        cognome: "Ferro",
+        email: "gianluca.ferro@example.com",
+        numeroTelefono: "6789012345",
+        codiceFiscale: "GNLMFR92M01H501D",
+        viaggi_id: 2
+    },
+    {
+        id: 22,
+        nome: "Marco",
+        cognome: "Rossi",
+        email: "marco.rossi@example.com",
+        numeroTelefono: "6789012345",
+        codiceFiscale: "LUCMRS92M01H501D",
+        viaggi_id: 3
+    },
+    {
+        id: 23,
+        nome: "Karlo",
+        cognome: "Krasic",
+        email: "karlo.krasic@example.com",
+        numeroTelefono: "6719012345",
+        codiceFiscale: "KRLKRC92M01H501D",
+        viaggi_id: 3
+    },
+    {
+        id: 24,
+        nome: "Andrea",
+        cognome: "Rispoli",
+        email: "andrea.rispoli@example.com",
+        numeroTelefono: "6789012345",
+        codiceFiscale: "ADRPLC92M01H501D",
+        viaggi_id: 3
+    },
+    {
+        id: 25,
+        nome: "Lucia",
+        cognome: "Luca",
+        email: "lucia.luca@example.com",
+        numeroTelefono: "67845012345",
+        codiceFiscale: "LUCMSC92M01H501D",
+        viaggi_id: 6
+    },
 ]
 export default utenti
