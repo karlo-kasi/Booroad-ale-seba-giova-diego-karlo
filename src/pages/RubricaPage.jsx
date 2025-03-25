@@ -21,7 +21,7 @@ export default function RubricaPage() {
             setFilterUser(users)
         } else {
             setFilterUser(users.filter((utente) => {
-                return utente.nome.toUpperCase().includes(search.toUpperCase())
+                return utente.nome.toUpperCase().includes(search.toUpperCase()) || utente.cognome.toUpperCase().includes(search.toUpperCase()) 
             }))
         }
     }, [search, users])
